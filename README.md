@@ -1,5 +1,8 @@
 Contact Form Project
 This project is a simple, responsive contact form built with HTML, CSS, and JavaScript. It demonstrates client-side validation, user-friendly error handling, and the use of regular expressions for validating email addresses.
+![image](https://github.com/user-attachments/assets/7fed51b9-9e1a-4994-af2e-9279d64a6a74)
+![image](https://github.com/user-attachments/assets/219f6e9f-172a-419b-9404-160e8a74c704)
+
 
 Features
 HTML form with input fields for Name, Email, Message, and a Submit button.
